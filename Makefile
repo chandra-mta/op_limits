@@ -37,4 +37,4 @@ ifdef WWW
 	rsync --times --cvs-exclude $(WWW) $(INSTALL_WWW)/
 endif
 
-rsync --times --cvs-exclude $(DATA) /data/mta/Test
+#rsync --times --cvs-exclude $(DATA) /data/mta/Test

@@ -131,14 +131,17 @@
 1PDEAAT         279.0   316.0   236.0   332.06     91238399.0   #PSMC DEA PS A TEMP                      K	11/22/00
 1PDEAAT         273.16  323.16  236.66  331.16    118627199.0   #PSMC DEA PS A TEMP                      K	dq01
 1PDEAAT         273.16  327.16  236.66  332.16    165715199.0   #PSMC DEA PS A TEMP                      K	acis040803
+1PDEAAT         273.16  330.16  236.66  335.16    224208063.0   #PSMC DEA PS A TEMP                      K	acis040803
 1PDEABT         251.5   326.5   246.5   331.56     48815999.0   #PSMC DEA PS B TEMP                      K	
 1PDEABT         270.0   310.0   236.0   332.06     84585599.0   #PSMC DEA PS B TEMP                      K	09/06/00
 1PDEABT         273.16  323.16  236.66  331.16    118627199.0   #PSMC DEA PS B TEMP                      K	dq01
 1PDEABT         273.16  327.16  236.66  332.16    165715199.0   #PSMC DEA PS B TEMP                      K	acis040803
+1PDEABT         273.16  330.16  236.66  335.16    224208063.0   #PSMC DEA PS B TEMP                      K	acis040803
 1PIN1AT         251.5   326.5   246.5   331.56     48815999.0   #PSMC TEMP 1A                            K	
 1PIN1AT         268.0   300.0   236.0   310.06     84585599.0   #PSMC TEMP 1A                            K	09/06/00
 1PIN1AT         268.16  303.16  236.66  309.66    118627199.0   #PSMC TEMP 1A                            K	dq01
 1PIN1AT         268.16  308.16  236.66  313.16    165715199.0   #PSMC TEMP 1A                            K	acis040803
+1PIN1AT         268.16  314.15  236.66  319.16    224208063.0   #PSMC TEMP 1A                            K	acis040803
 1SSMYT          255.5   308.5   250.5   313.56     48815999.0   #SUPPORT STRUCTURE -Y PANEL TEMP         K	
 1SSMYT          282.0   290.0   235.5   313.56     84585599.0   #SUPPORT STRUCTURE -Y PANEL TEMP         K	09/06/00
 1SSMYT          281.16  293.16  235.66  313.66    118627199.0   #SUPPORT STRUCTURE -Y PANEL TEMP         K	dq01
