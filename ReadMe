@@ -1,0 +1,4 @@
+op_limits.db contains all the operating limits for CXCDS-generated
+   MTA telemetry pages and MTA trending pages
+- changes are picked by CXCDS at each software release.
+- keep a copy in /data/mta4/MTA/data and /data/mta/Test
