@@ -1,5 +1,4 @@
 # Operationl Limits for side A (based on V6.9)
-#
 # If an MSID's limit values are 2.0, 3.0, 1.0, and 4.0, then its true
 #    limit values are unavailable.
 # If an MSID's limit values are -1000, -1000, -1000, and -1000, then

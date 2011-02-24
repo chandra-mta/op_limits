@@ -15,6 +15,7 @@ endif
 ifdef DATA
 	mkdir -p $(INSTALL_DATA)
 	rsync --times --cvs-exclude $(DATA) $(INSTALL_DATA)/
+	rsync --times --cvs-exclude $(DATA) /data/mta/Test/
 endif
 ifdef DOC
 	mkdir -p $(INSTALL_DOC)
@@ -37,4 +38,3 @@ ifdef WWW
 	rsync --times --cvs-exclude $(WWW) $(INSTALL_WWW)/
 endif
 
-#rsync --times --cvs-exclude $(DATA) /data/mta/Test
